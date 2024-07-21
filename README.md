@@ -5,6 +5,8 @@ I have been trying to improve my DSA and code regulary. Here is my progress on v
 - As a beginner I have started to solve some initial problems on CodeAbbey trying to go through the basics again✨
 [![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/harmankaler.png)](https://www.codeabbey.com/index/user_profile/harmankaler)
 
+- Progress made on Leetcode! [Extremely Slow but hope to keep it Steady]
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/hkaler)](https://leetcode.com/hkaler)
 
 <!--
 **harmankaler2000/harmankaler2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
